@@ -1,3 +1,5 @@
+<img width="896" height="442" alt="{9B9A7DDE-5988-4BAF-84C4-9B4E4BD1E867}" src="https://github.com/user-attachments/assets/1b318887-09f2-4c7f-96ed-707b0e6d7867" />
+
 # ResumeTailor
 
 ResumeTailor is a web application that helps users create and tailor resumes according to a company's **Job Description (JD)**. Users can enter their information manually or upload an existing resume and use AI-powered analysis to improve the relevance of their resume for a specific job.
